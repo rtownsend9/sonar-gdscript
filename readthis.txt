@@ -1,0 +1,2 @@
+@darkiyy I know you havent uploaded to this github in a few years but hopefully you can still receive this mention/message. I needed to create a GDScript plugin for Sonarqube and i luckily stumbled upon yours. I have updated your plugin to GDScript 4.4 and have 
+created more rules totaling around 30 now. Your plugin helped me out and im sure someone in the future will need it so wanted to know if you would like me to commit the new updates to your repo.
